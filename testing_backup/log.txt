@@ -1,0 +1,12 @@
+09/04/2021 16:17:29 backup_failed HttpError
+09/04/2021 16:17:30 backup_failed HttpError
+09/04/2021 16:17:31 backup_failed HttpError
+09/04/2021 16:17:32 backup_failed HttpError
+09/04/2021 16:19:00 backup_successful C:/Users/kulpr/Downloads/Sem 6/Cloud Computing/Backup/hello.py
+09/04/2021 16:19:02 backup_successful C:/Users/kulpr/Downloads/Sem 6/Cloud Computing/Backup/New Microsoft Excel Worksheet.xlsx
+09/04/2021 16:19:04 backup_successful C:/Users/kulpr/Downloads/Sem 6/Cloud Computing/Backup/New Text Document.txt
+09/04/2021 16:19:06 backup_successful C:/Users/kulpr/Downloads/Sem 6/Cloud Computing/Backup/testing.txt
+09/04/2021 17:05:37 backup_successful C:/Users/kulpr/Downloads/Sem 6/Cloud Computing/Backup/hello.py
+09/04/2021 17:05:39 backup_successful C:/Users/kulpr/Downloads/Sem 6/Cloud Computing/Backup/New Microsoft Excel Worksheet.xlsx
+09/04/2021 17:05:41 backup_successful C:/Users/kulpr/Downloads/Sem 6/Cloud Computing/Backup/New Text Document.txt
+09/04/2021 17:05:43 backup_successful C:/Users/kulpr/Downloads/Sem 6/Cloud Computing/Backup/testing.txt
